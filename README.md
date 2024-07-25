@@ -1,3 +1,7 @@
+# Project Description
+This project is a working version that allows users to upload a csv file and writing to our PostgreSQL database.
+https://www.youtube.com/watch?v=1jzGHF8bpn0&list=WL&index=1
+
 # Read Me First
 The following was discovered as part of building this project:
 
